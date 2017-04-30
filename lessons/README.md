@@ -5,7 +5,15 @@ We at Terasology through TerasologyEdu sets our goal to provide open-source educ
 ## How to Use Our Curriculum
 Our curriculum is crafted to cater better to younger audiences (kids & teenagers) but it doesn't necessarily means that adults can't enjoy it too. We design our curriculum to introduce concepts of open-source software while also allowing everyone to get the grasp of programming.
 
-We divide our curriculum into 3 categories:
+Our curriculum are consisted of 4 aspects:
+1. Introduction + Open-Source
+2. Artwork
+3. Documentation
+3. World Generation
+
+Students are extremely encouraged to go through the **Introduction + Open-Source** before diving into the other aspects since it's a required fundamental for the other 3 aspects.
+
+We divide aspects into 3 categories based on difficulties:
 1. Basic
 2. Intermediate
 3. Advance
