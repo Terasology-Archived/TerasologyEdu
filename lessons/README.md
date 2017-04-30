@@ -1,6 +1,6 @@
 # Welcome to TerasologyEdu
 
-We at TerasologyEdu sets our goal to provide open-source education to the masses while also keeping it fun and engaging. TerasologyEdu is build upon the concept of hour-of-code where students can train or polish their skill while using Terasology as a platform.
+We at Terasology through TerasologyEdu sets our goal to provide open-source education to the masses while also keeping it fun and engaging. TerasologyEdu is build upon the concept of hour-of-code where students can train or polish their skill while using Terasology as a platform.
 
 ## How to Use Our Curriculum
 Our curriculum is crafted to cater better to younger audiences (kids & teenagers) but it doesn't necessarily means that adults can't enjoy it too. We design our curriculum to introduce concepts of open-source software while also allowing everyone to get the grasp of programming.

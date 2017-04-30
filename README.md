@@ -7,4 +7,4 @@
 All interested contributors should read the [Contribution Guideline](CONTRIBUTING.md) prior to contributing to this repository.
 
 ## License
-TerasologyEdu is licensed under Apache 2.0 License
+TerasologyEdu (A Terasology Project) is licensed under Apache 2.0 License
