@@ -1,0 +1,15 @@
+Terasology uses procedural generation to create its' expansive worlds, generating terrain and populating it with trees, caves, ores and even man-made cities. To start with however let's just do the terrain. 
+
+The terrain is the sloping hills and valleys every world generator has. Take a look at the inbuilt Perlin generator for an example. It also includes the blocks the world is made of. A desert will be sand and mountains stone.
+
+# Definition of 'Done'
+
+* Submit a PR with the new world generator to the [AdditionalWorlds repository](https://github.com/Terasology/AdditionalWorlds)
+* Attached screenshots of the generated world in action.
+* Note that the landmass that you generate *should not be flat* - it's fine if you don't have mountains and valleys, but at least have some height variations
+
+# Where to start
+
+* The [World Generation tutorial](https://github.com/Terasology/TutorialWorldGeneration/wiki) contains a detailed overview on working with world generation code, as well as a sample world generator - it is the resource you need to use to get started!
+* You will want to decide what type of world you would like to create and then pick the blocks and noise based on this. It could even be something like the top of an endless mountain range with snow everywhere and bottomless drops!
+* Some good examples include [Poly World](https://github.com/Terasology/PolyWorld), [Caves](https://github.com/Terasology/Caves), [Lakes](https://github.com/Terasology/Lakes) and [ShatteredPlanes](https://github.com/Terasology/ShatteredPlanes)
